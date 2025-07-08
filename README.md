@@ -1256,6 +1256,14 @@
         <td></td>
         <td><a href="https://ckai.xyz" target="_blank">🔗</a></td>
     </tr> 
+	<tr>
+        <td>3</td>
+        <td><img src="https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F2584696304-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FisNk5xPnJebTWJa4JCg5%252Fsites%252Fsite_AIphz%252Ficon%252F3vjfczmsHtaYTsiXVtck%252FLogotype%2520%282%29.png%3Falt%3Dmedia%26token%3D0e80ddab-9c08-4b49-8189-df24733c5e4a&width=32&dpr=1&quality=100&sign=80d75ef2&sv=2" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://aimlapi.com/app/?utm_source=carrot&utm_medium=github&utm_campaign=integration" target="_blank">AI/ML API</a></td>
+        <td>An AI/ML API provides 300+AI models, including Deepseek, Gemini and ChatGPT.</td>
+        <td></td>
+        <td><a href="https://aimlapi.com/app/?utm_source=carrot&utm_medium=github&utm_campaign=integration" target="_blank">🔗</a></td>
+    </tr>
     <tr>
         <td>4</td>
         <td><img src="https://st2.ai55.cc/2/87e3f956-14ef-4ccc-8aa5-c2151023266c.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
